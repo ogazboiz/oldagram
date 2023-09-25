@@ -4,7 +4,7 @@ html, body {
     background-color: #fff;
 }
 .container{
-    width: 375px;
+    max-width: 375px;
     margin:0 auto;
     
 }

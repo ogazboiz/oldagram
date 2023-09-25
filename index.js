@@ -1,13 +1,5 @@
 const posts = [
-    {
-        name: "Vincent van Gogh",
-        username: "vincey1853",
-        location: "Zundert, Netherlands",
-        avatar: "images/avatar-vangogh.jpg",
-        post: "images/post-vangogh.jpg",
-        comment: "just took a few mushrooms lol",
-        likes: 21
-    },
+    
     {
         name: "Gustave Courbet",
         username: "gus1819",
@@ -17,6 +9,16 @@ const posts = [
         comment: "i'm feelin a bit stressed tbh",
         likes: 4
     },
+    {
+        name: "Vincent van Gogh",
+        username: "vincey1853",
+        location: "Zundert, Netherlands",
+        avatar: "images/avatar-vangogh.jpg",
+        post: "images/post-vangogh.jpg",
+        comment: "just took a few mushrooms lol",
+        likes: 21
+    },
+    
     {
         name: "Joseph Ducreux",
         username: "jd1735",
